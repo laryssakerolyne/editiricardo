@@ -45,3 +45,7 @@ h1::before {
     }
   }
   
+ h2{
+      width: 50%;
+      height: 45%;
+ }
